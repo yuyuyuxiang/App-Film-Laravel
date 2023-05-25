@@ -1,3 +1,23 @@
+# Site d'avis de films
+## Créer un petit site web qui affiche des avis sur des films récemment sortis. 
+
+### Le site permet: 
+
+- De maintenir une liste des films disponibles sur le site, avec pour chaque film le titre, le directeur, une date de sortie
+- D'ajouter des films à la base de données
+- D'ajouter des avis à la base de données – chaque avis aura un titre, un text, une date de publication, et une appreciation sur 5. 
+
+### Les pages suivantes : 
+
+- Une page qui liste tous les avis présents sur le site
+- Une page par film qui affiche le descriptif du film, et quelques avis, tirés au hazard
+- Une page pour l'ajout de film
+- Une page pour l'ajout d'avis
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
