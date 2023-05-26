@@ -9,6 +9,8 @@
 - J'ai une page Ajout de film qui permet d'ajouter un film en utilisant le formulaire.
 
 
+## Il y a le fichier SQL dans le dossier racine.
+
 
 
 
