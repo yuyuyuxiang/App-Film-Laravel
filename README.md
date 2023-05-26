@@ -1,18 +1,12 @@
 # Site d'avis de films
 ## Créer un petit site web qui affiche des avis sur des films récemment sortis. 
 
-### Le site permet: 
-
-- De maintenir une liste des films disponibles sur le site, avec pour chaque film le titre, le directeur, une date de sortie
-- D'ajouter des films à la base de données
-- D'ajouter des avis à la base de données – chaque avis aura un titre, un text, une date de publication, et une appreciation sur 5. 
-
-### Les pages suivantes : 
-
-- Une page qui liste tous les avis présents sur le site
-- Une page par film qui affiche le descriptif du film, et quelques avis, tirés au hazard
-- Une page pour l'ajout de film
-- Une page pour l'ajout d'avis
+### Ce que j'ai fait:
+- J'ai une page Films qui affiche tous les films avec leur titre et leur affiche.
+- Dans chaque page de film, j'ai le titre, l'affiche, la date de sortie, la description, le réalisateur, la note moyenne et les avis correspondants.
+- Dans chaque page de film, j'ai un bouton vers la page Ajout d'avis pour ajouter un avis en utilisant le formulaire.
+- J'ai une page Avis qui affiche tous les avis avec leur note, leur texte, leur date et le titre du film correspondant.
+- J'ai une page Ajout de film qui permet d'ajouter un film en utilisant le formulaire.
 
 
 
